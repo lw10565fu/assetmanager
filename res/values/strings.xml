@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">assetmanager</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- 网络类 -->
+    <string name="net_err">网络连接错误</string>
+    <string name="net_time_out">网络连接超时</string>
+    
+    
+</resources>
